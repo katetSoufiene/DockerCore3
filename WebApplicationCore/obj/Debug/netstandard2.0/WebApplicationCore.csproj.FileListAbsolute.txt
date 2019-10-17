@@ -1,0 +1,15 @@
+D:\GitRepositories\AngularTest\AngularTest\WebApplicationCore\bin\Debug\netstandard2.0\WebApplicationCore.deps.json
+D:\GitRepositories\AngularTest\AngularTest\WebApplicationCore\bin\Debug\netstandard2.0\WebApplicationCore.dll
+D:\GitRepositories\AngularTest\AngularTest\WebApplicationCore\bin\Debug\netstandard2.0\WebApplicationCore.pdb
+D:\GitRepositories\AngularTest\AngularTest\WebApplicationCore\obj\Debug\netstandard2.0\WebApplicationCore.AssemblyInfoInputs.cache
+D:\GitRepositories\AngularTest\AngularTest\WebApplicationCore\obj\Debug\netstandard2.0\WebApplicationCore.AssemblyInfo.cs
+D:\GitRepositories\AngularTest\AngularTest\WebApplicationCore\obj\Debug\netstandard2.0\WebApplicationCore.dll
+D:\GitRepositories\AngularTest\AngularTest\WebApplicationCore\obj\Debug\netstandard2.0\WebApplicationCore.pdb
+D:\GitRepositories\AngularTest\AngularTest\WebApplicationCore\obj\Debug\netstandard2.0\WebApplicationCore.csprojAssemblyReference.cache
+D:\GitRepositories\WebApiCore3\WebApplicationCore\bin\Debug\netstandard2.0\WebApplicationCore.deps.json
+D:\GitRepositories\WebApiCore3\WebApplicationCore\bin\Debug\netstandard2.0\WebApplicationCore.dll
+D:\GitRepositories\WebApiCore3\WebApplicationCore\bin\Debug\netstandard2.0\WebApplicationCore.pdb
+D:\GitRepositories\WebApiCore3\WebApplicationCore\obj\Debug\netstandard2.0\WebApplicationCore.AssemblyInfoInputs.cache
+D:\GitRepositories\WebApiCore3\WebApplicationCore\obj\Debug\netstandard2.0\WebApplicationCore.AssemblyInfo.cs
+D:\GitRepositories\WebApiCore3\WebApplicationCore\obj\Debug\netstandard2.0\WebApplicationCore.dll
+D:\GitRepositories\WebApiCore3\WebApplicationCore\obj\Debug\netstandard2.0\WebApplicationCore.pdb
