@@ -3,7 +3,7 @@
 
 FROM mcr.microsoft.com/dotnet/core/sdk:3.0 AS base
 WORKDIR /app
-COPY ..
+COPY . .
 RUN dotnet test
 
 FROM mcr.microsoft.com/dotnet/core/sdk:3.0-nanoserver-1803 AS build
