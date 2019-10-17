@@ -8,6 +8,10 @@ EXPOSE 443
 
 FROM mcr.microsoft.com/dotnet/core/sdk:3.0-nanoserver-1803 AS build
 WORKDIR /src
+COPY ["WebApplicationCore/Core.csproj", "WebApiCore3/"]
+RUN dotnet restore "WebApiCore3/Core.csproj"
+COPY ["Infrastructure/Infrastructure.csproj", "WebApiCore3/"]
+RUN dotnet restore "WebApiCore3/Infrastructure.csproj"
 COPY ["WebApiCore3/WebApiCore3.csproj", "WebApiCore3/"]
 RUN dotnet restore "WebApiCore3/WebApiCore3.csproj"
 COPY . .
